@@ -10,7 +10,7 @@ python main.py --input video/test1.mp4
 # Architecture
 <img src="/introduce/architecture.jpg">
 
-# process
+# Process
 <img src="/introduce/process.png">
 From the top, the original images, black-and-white images, histogram smoothing images, blurry images, motionblur images, convolution images, sliding windows and prediction lines are shown in order.
 
