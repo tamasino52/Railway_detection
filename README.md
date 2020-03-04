@@ -1,2 +1,8 @@
-# Railway_detection
-Railway detection using computer vision
+# Install
+'''
+pip install requirements.txt
+'''
+# Execute
+'''
+python main.py --input video/test1.mp4
+'''
