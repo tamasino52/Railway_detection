@@ -1,11 +1,7 @@
 import cv2
 import numpy as np
 import argparse
-from matplotlib import pyplot as plt
 from scipy.special import comb
-import darknet
-import os
-import math
 
 # args setting
 parser = argparse.ArgumentParser(description='Process some integers.')
