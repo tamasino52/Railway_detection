@@ -2,4 +2,3 @@ opencv-python
 argparse
 numpy
 scipy
-matplotlib
