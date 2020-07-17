@@ -1,5 +1,6 @@
 # Abstract
-[![HitCount](http://hits.dwyl.com/tamasino52/Railway_detection.svg)](http://hits.dwyl.com/tamasino52/Railway_detection)<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftamasino52%2FRailway_detection)](https://hits.seeyoufarm.com)
+
 The project was developed as a base technology for autonomous train traffic, with only the areas corresponding to the tracks from the cameras installed at the front of the trains. This Repository was created in 2019 as part of Soongsil University's industry-academic cooperation project. The architecture and code will be used to create the thesis, and you can use them as you wish after the license is specified.
 
 # Defendency
