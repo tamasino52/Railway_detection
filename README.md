@@ -3,7 +3,7 @@
 
 The project was developed as a base technology for autonomous train traffic, with only the areas corresponding to the tracks from the cameras installed at the front of the trains. This Repository was created in 2019 as part of Soongsil University's industry-academic cooperation project. The architecture and code will be used to create the thesis, and you can use them as you wish after the license is specified.
 
-# Defendency
+# Requirements
 ```
 pip install -r requirements.txt
 ```
